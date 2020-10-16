@@ -1,0 +1,11 @@
+-----------------------------------------------------
+|                ASCII ART CONVERTER                |
+|                     MAIN MENU                     |
+----------------------------------------------------
+            |  Options:                  |
+            |                            |
+            |  1. Enter RLE              |
+            |  2. Display ASCII art      |
+            |  3. Convert RLE to ASCII   |
+            |  4. Convert ASCII to RLE   |
+            |  5. QUIT                   |
